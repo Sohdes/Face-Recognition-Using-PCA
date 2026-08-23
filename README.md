@@ -53,13 +53,13 @@ Distance: 0.0725
 
 The input image is matched with the closest face in the training set using Euclidean distance in the Eigenface space.
 
-![Recognition Result](results/recognition_result.png)
+![Recognition Result](recognition_result.png)
 
 ### Eigenfaces Visualization
 
 The first five Eigenfaces extracted using PCA are shown below.
 
-![Eigenfaces](results/eigenfaces.png)
+![Eigenfaces](eigenfaces.png)
 
 ---
 
