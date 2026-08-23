@@ -53,7 +53,9 @@ Distance: 0.0725
 
 The input image is matched with the closest face in the training set using Euclidean distance in the Eigenface space.
 
-![Recognition Result](recognition_result.png)
+<p align="center">
+  <img src="recognition_result.png" alt="Recognition Result">
+</p>
 
 ### Eigenfaces Visualization
 
