@@ -25,6 +25,3 @@ Accuracy: 93.08%
 - NumPy
 - OpenCV
 - Matplotlib
-
-## Author
-Soheil Hemmat
