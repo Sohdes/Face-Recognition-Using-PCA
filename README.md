@@ -47,11 +47,17 @@ Prediction: yaleB07
 Distance: 0.0725
 
 
+## Visualization
+
 ### Recognition Result
+
+The input image is matched with the closest face in the training set using Euclidean distance in the Eigenface space.
 
 ![Recognition Result](results/recognition_result.png)
 
 ### Eigenfaces Visualization
+
+The first five Eigenfaces extracted using PCA are shown below.
 
 ![Eigenfaces](results/eigenfaces.png)
 
